@@ -30,7 +30,7 @@ The mini project involves performing **Semantic Segmentation** using modern deep
 
 ---
 
-## How to View and Edit on Kaggle
+## How to View and Edit on Kaggle https://www.kaggle.com/mohammedhachoud
 
 You can also view and edit the notebooks directly on **Kaggle**. To do this:
 
